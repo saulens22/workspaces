@@ -14,6 +14,7 @@ echo "bind 'TAB:menu-complete'" >> ~/.bashrc
 echo 'bind "set show-all-if-ambiguous on"' >> ~/.bashrc
 echo 'bind "set menu-complete-display-prefix on"' >> ~/.bashrc
 
+sudo cp -r ./nerdfonts /usr/share/fonts/truetype/nerdfonts
 
 
 

@@ -7,7 +7,8 @@ unzip ~/.poshthemes/themes.zip -d ~/.poshthemes
 chmod u+rw ~/.poshthemes/*.json
 rm ~/.poshthemes/themes.zip
 
-echo 'eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/jandedobbeleer.omp.json)"' >> ~/.bashrc
+cp poshtheme.omp.json ~/.poshthemes/saulens22.omp.json
+echo 'eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/saulens22.omp.json)"' >> ~/.bashrc
 
 echo "bind 'TAB:menu-complete'" >> ~/.bashrc
 echo 'bind "set show-all-if-ambiguous on"' >> ~/.bashrc

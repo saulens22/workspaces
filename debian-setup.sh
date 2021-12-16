@@ -16,6 +16,11 @@ echo 'bind "set menu-complete-display-prefix on"' >> ~/.bashrc
 
 sudo cp -r ./nerdfonts /usr/share/fonts/truetype/nerdfonts
 
+mkdir ~/btop-install && cd ~/btop-install
+wget https://github.com/aristocratos/btop/releases/download/v1.1.1/btop-1.1.1-x86_64-linux-musl.tbz
+tar -xjf btop-1.1.1-x86_64-linux-musl.tbz
+sudo make install
 
+echo "alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'" >> ~/.bashrc
 
 source ~/.bashrc

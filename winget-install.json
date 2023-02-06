@@ -4,6 +4,12 @@
         {
             "Packages": [
                 {
+                    "PackageIdentifier": "Google.Chrome"
+                },
+                {
+                    "PackageIdentifier": "Mozilla.Firefox"
+                }
+                {
                     "PackageIdentifier": "Microsoft.dotnetRuntime.3-x64"
                 },
                 {

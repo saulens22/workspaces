@@ -17,7 +17,7 @@ echo 'bind "set menu-complete-display-prefix on"' >> ~/.bashrc
 sudo cp -r ./nerdfonts /usr/share/fonts/truetype/nerdfonts
 
 mkdir ~/btop-install && cd ~/btop-install
-wget https://github.com/aristocratos/btop/releases/download/v1.2.13/btop-x86_64-linux-musl.tbz
+wget https://github.com/aristocratos/btop/releases/download/latest/btop-x86_64-linux-musl.tbz
 tar -xjf btop-x86_64-linux-musl.tbz
 sudo make install
 

@@ -203,6 +203,9 @@
                 },
                 {
                     "PackageIdentifier": "JeffreyPfau.mGBA"
+                },
+	        {
+		    "PackageIdentifier": "nukeop.nuclear"
                 }
             ],
             "SourceDetails": {

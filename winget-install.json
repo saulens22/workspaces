@@ -3,9 +3,9 @@
     "Sources": [
         {
             "Packages": [
-				{
-					"PackageIdentifier": "Google.Chrome"
-				},
+		{
+		    "PackageIdentifier": "Google.Chrome"
+		},
                 {
                     "PackageIdentifier": "Microsoft.DotNet.Runtime.3_1"
                 },

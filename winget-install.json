@@ -3,29 +3,20 @@
     "Sources": [
         {
             "Packages": [
+				{
+					"PackageIdentifier": "Google.Chrome"
+				},
                 {
-                    "PackageIdentifier": "Google.Chrome"
+                    "PackageIdentifier": "Microsoft.DotNet.Runtime.3_1"
                 },
                 {
-                    "PackageIdentifier": "Mozilla.Firefox"
-                }
-                {
-                    "PackageIdentifier": "Microsoft.dotnetRuntime.3-x64"
+                    "PackageIdentifier": "Microsoft.DotNet.Runtime.5"
                 },
                 {
-                    "PackageIdentifier": "Microsoft.dotnetRuntime.5-x64"
+                    "PackageIdentifier": "Microsoft.DotNet.Runtime.6"
                 },
                 {
-                    "PackageIdentifier": "Microsoft.dotnet"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.dotnetPreview"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.DotNet.SDK.6"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.DotNet.SDK.3_1"
+                    "PackageIdentifier": "Microsoft.DotNet.Runtime.7"
                 },
                 {
                     "PackageIdentifier": "Microsoft.DirectX"
@@ -49,19 +40,10 @@
                     "PackageIdentifier": "OBSProject.OBSStudio"
                 },
                 {
-                    "PackageIdentifier": "Chocolatey.Chocolatey"
-                },
-                {
                     "PackageIdentifier": "Chocolatey.ChocolateyGUI"
                 },
                 {
-                    "PackageIdentifier": "Microsoft.PowerShell"
-                },
-                {
                     "PackageIdentifier": "Microsoft.WindowsTerminal"
-                },
-                {
-                    "PackageIdentifier": "Microsoft.PowerToys"
                 },
                 {
                     "PackageIdentifier": "PuTTY.PuTTY"
@@ -70,7 +52,7 @@
                     "PackageIdentifier": "7zip.7zip.Alpha.exe"
                 },
                 {
-                    "PackageIdentifier": "Google.AndroPackageIdentifierStudio"
+                    "PackageIdentifier": "Google.AndroidStudio"
                 },
                 {
                     "PackageIdentifier": "Audacity.Audacity"
@@ -79,10 +61,10 @@
                     "PackageIdentifier": "Balena.Etcher"
                 },
                 {
-                    "PackageIdentifier": "CPUPackageIdentifier.CPU-Z"
+                    "PackageIdentifier": "CPUID.CPU-Z"
                 },
                 {
-                    "PackageIdentifier": "CPUPackageIdentifier.HWMonitor"
+                    "PackageIdentifier": "CPUID.HWMonitor"
                 },
                 {
                     "PackageIdentifier": "CrystalDewWorld.CrystalDiskInfo"
@@ -136,10 +118,10 @@
                     "PackageIdentifier": "TorProject.TorBrowser"
                 },
                 {
-                    "PackageIdentifier": "VPackageIdentifiereoLAN.VLC"
+                    "PackageIdentifier": "VideoLAN.VLC"
                 },
                 {
-                    "PackageIdentifier": "ArduinoSA.PackageIdentifierE.stable"
+                    "PackageIdentifier": "ArduinoSA.IDE.stable"
                 },
                 {
                     "PackageIdentifier": "VMware.WorkstationPlayer"
@@ -214,9 +196,6 @@
                     "PackageIdentifier": "dorssel.usbipd-win"
                 },
                 {
-                    "PackageIdentifier": "Microsoft.Office"
-                },
-                {
                     "PackageIdentifier": "CodecGuide.K-LiteCodecPack.Full"
                 },
                 {
@@ -224,9 +203,6 @@
                 },
                 {
                     "PackageIdentifier": "JeffreyPfau.mGBA"
-                },
-                {
-                    "PackageIdentifier": "Greenshot.Greenshot"
                 }
             ],
             "SourceDetails": {
@@ -235,6 +211,19 @@
                 "Name": "winget",
                 "Type": "Microsoft.PreIndexed.Package"
             }
-        }
+        },
+		{
+			"Packages": [
+				{
+                    "PackageIdentifier": "XP89DCGQ3K6VLD"
+                }
+			],
+			"SourceDetails": {
+				"Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier": "StoreEdgeFD",
+				"Name": "msstore",
+				"Type": "Microsoft.Rest"
+			}
+		}
     ]
 }

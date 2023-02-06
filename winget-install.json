@@ -218,6 +218,9 @@
                 },
                 {
                     "PackageIdentifier": "JeffreyPfau.mGBA"
+                },
+                {
+                    "PackageIdentifier": "Greenshot.Greenshot"
                 }
             ],
             "SourceDetails": {

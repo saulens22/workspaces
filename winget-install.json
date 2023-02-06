@@ -1,0 +1,231 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "Microsoft.dotnetRuntime.3-x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.dotnetRuntime.5-x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.dotnet"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.dotnetPreview"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DotNet.SDK.6"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DotNet.SDK.3_1"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DirectX"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2013.x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+                },
+                {
+                    "PackageIdentifier": "Zoom.Zoom"
+                },
+                {
+                    "PackageIdentifier": "OBSProject.OBSStudio"
+                },
+                {
+                    "PackageIdentifier": "Chocolatey.Chocolatey"
+                },
+                {
+                    "PackageIdentifier": "Chocolatey.ChocolateyGUI"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.PowerShell"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WindowsTerminal"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.PowerToys"
+                },
+                {
+                    "PackageIdentifier": "PuTTY.PuTTY"
+                },
+                {
+                    "PackageIdentifier": "7zip.7zip.Alpha.exe"
+                },
+                {
+                    "PackageIdentifier": "Google.AndroPackageIdentifierStudio"
+                },
+                {
+                    "PackageIdentifier": "Audacity.Audacity"
+                },
+                {
+                    "PackageIdentifier": "Balena.Etcher"
+                },
+                {
+                    "PackageIdentifier": "CPUPackageIdentifier.CPU-Z"
+                },
+                {
+                    "PackageIdentifier": "CPUPackageIdentifier.HWMonitor"
+                },
+                {
+                    "PackageIdentifier": "CrystalDewWorld.CrystalDiskInfo"
+                },
+                {
+                    "PackageIdentifier": "CrystalDewWorld.CrystalDiskMark"
+                },
+                {
+                    "PackageIdentifier": "Discord.Discord"
+                },
+                {
+                    "PackageIdentifier": "Docker.DockerDesktop"
+                },
+                {
+                    "PackageIdentifier": "EpicGames.EpicGamesLauncher"
+                },
+                {
+                    "PackageIdentifier": "GitHub.GitHubDesktop"
+                },
+                {
+                    "PackageIdentifier": "GOG.Galaxy"
+                },
+                {
+                    "PackageIdentifier": "HandBrake.HandBrake"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Teams"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudioCode"
+                },
+                {
+                    "PackageIdentifier": "Notepad++.Notepad++"
+                },
+                {
+                    "PackageIdentifier": "Safing.Portmaster"
+                },
+                {
+                    "PackageIdentifier": "the-sz.PortScan"
+                },
+                {
+                    "PackageIdentifier": "qBittorrent.qBittorrent"
+                },
+                {
+                    "PackageIdentifier": "Rufus.Rufus"
+                },
+                {
+                    "PackageIdentifier": "Valve.Steam"
+                },
+                {
+                    "PackageIdentifier": "TorProject.TorBrowser"
+                },
+                {
+                    "PackageIdentifier": "VPackageIdentifiereoLAN.VLC"
+                },
+                {
+                    "PackageIdentifier": "ArduinoSA.PackageIdentifierE.stable"
+                },
+                {
+                    "PackageIdentifier": "VMware.WorkstationPlayer"
+                },
+                {
+                    "PackageIdentifier": "WinDirStat.WinDirStat"
+                },
+                {
+                    "PackageIdentifier": "jely2002.youtube-dl-gui"
+                },
+                {
+                    "PackageIdentifier": "Yubico.Authenticator"
+                },
+                {
+                    "PackageIdentifier": "Yubico.YubikeyManager"
+                },
+                {
+                    "PackageIdentifier": "HumbleBundle.HumbleApp"
+                },
+                {
+                    "PackageIdentifier": "angryziber.AngryIPScanner"
+                },
+                {
+                    "PackageIdentifier": "AnyDeskSoftwareGmbH.AnyDesk"
+                },
+                {
+                    "PackageIdentifier": "Audacity.Audacity"
+                },
+                {
+                    "PackageIdentifier": "Git.Git"
+                },
+                {
+                    "PackageIdentifier": "LIGHTNINGUK.ImgBurn"
+                },
+                {
+                    "PackageIdentifier": "MusicBrainz.Picard"
+                },
+                {
+                    "PackageIdentifier": "NirSoft.BlueScreenView"
+                },
+                {
+                    "PackageIdentifier": "Synthesia.Synthesia"
+                },
+                {
+                    "PackageIdentifier": "TeamViewer.TeamViewer"
+                },
+                {
+                    "PackageIdentifier": "Ubisoft.Connect"
+                },
+                {
+                    "PackageIdentifier": "Twilio.Authy"
+                },
+                {
+                    "PackageIdentifier": "AppWork.JDownloader"
+                },
+                {
+                    "PackageIdentifier": "Python.Python.3.11"
+                },
+                {
+                    "PackageIdentifier": "Logitech.GHUB"
+                },
+                {
+                    "PackageIdentifier": "ElectronicArts.EADesktop"
+                },
+                {
+                    "PackageIdentifier": "dotPDNLLC.paintdotnet"
+                },
+                {
+                    "PackageIdentifier": "GitExtensionsTeam.GitExtensions"
+                },
+                {
+                    "PackageIdentifier": "dorssel.usbipd-win"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Office"
+                },
+                {
+                    "PackageIdentifier": "CodecGuide.K-LiteCodecPack.Full"
+                },
+                {
+                    "PackageIdentifier": "yt-dlp.yt-dlp"
+                },
+                {
+                    "PackageIdentifier": "JeffreyPfau.mGBA"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://cdn.winget.microsoft.com/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        }
+    ]
+}

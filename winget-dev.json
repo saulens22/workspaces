@@ -1,0 +1,103 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "Google.Chrome"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DotNet.Runtime.3_1"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DotNet.Runtime.5"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DotNet.Runtime.6"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DotNet.Runtime.7"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DirectX"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2013.x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+                },
+                {
+                    "PackageIdentifier": "OBSProject.OBSStudio"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WindowsTerminal"
+                },
+                {
+                    "PackageIdentifier": "PuTTY.PuTTY"
+                },
+                {
+                    "PackageIdentifier": "7zip.7zip.Alpha.exe"
+                },
+                {
+                    "PackageIdentifier": "CPUID.CPU-Z"
+                },
+                {
+                    "PackageIdentifier": "CPUID.HWMonitor"
+                },
+                {
+                    "PackageIdentifier": "Docker.DockerDesktop"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Teams"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudioCode"
+                },
+                {
+                    "PackageIdentifier": "Notepad++.Notepad++"
+                },
+                {
+                    "PackageIdentifier": "AnyDeskSoftwareGmbH.AnyDesk"
+                },
+                {
+                    "PackageIdentifier": "Git.Git"
+                },
+                {
+                    "PackageIdentifier": "Python.Python.3.11"
+                },
+                {
+                    "PackageIdentifier": "dotPDNLLC.paintdotnet"
+                },
+                {
+                    "PackageIdentifier": "GitExtensionsTeam.GitExtensions"
+                },
+            ],
+            "SourceDetails": {
+                "Argument": "https://cdn.winget.microsoft.com/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        },
+		{
+			"Packages": [
+				{
+                    "PackageIdentifier": "XP89DCGQ3K6VLD"
+                }
+			],
+			"SourceDetails": {
+				"Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier": "StoreEdgeFD",
+				"Name": "msstore",
+				"Type": "Microsoft.Rest"
+			}
+		}
+    ]
+}
